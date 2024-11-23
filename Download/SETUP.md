@@ -7,7 +7,7 @@ Follow these simple steps to set up the Advanced Task Board application for seam
 ## **Setup Instructions**
 
 ### **Step 1: Download the EXE**
-1. Go to the [Release Page](#) and download the **EXE file** for the Task Board application.
+1. Go to the [Release Page](https://github.com/AnubhavChaturvedi-GitHub/Task-Manager/blob/main/Download/main.exe) and download the **EXE file** for the Task Board application.
 2. Save the EXE file in a folder of your choice.
 
 ---
