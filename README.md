@@ -61,8 +61,7 @@
 ## **Screenshots**
 
 ### **Task Board Interface**  
-![Task Board UI](https://via.placeholder.com/600x400?text=Task+Board+UI)
-
+![image](https://github.com/user-attachments/assets/9b16096d-77b5-42a9-9460-b365c78eb37f)
 ---
 
 ## **Customization**
