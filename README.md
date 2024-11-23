@@ -1,6 +1,7 @@
 # **Advanced Task Board**
 
 🚀 **Advanced Task Board** is a Python-powered application that allows you to manage tasks efficiently using a sleek UI and a hotkey trigger (`Ctrl + Shift + Z`). With features like adding, removing, clearing tasks, and scrollable task lists, it’s a great productivity tool for everyday use.
+![image](https://github.com/user-attachments/assets/9286eed7-d664-4b4b-a79f-204ddd6b72c6)
 
 ---
 
